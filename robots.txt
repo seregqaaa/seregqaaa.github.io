@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seregqaaa.github.io/sitemap.xml
+Sitemap: https://seregqaaa.github.io/karat/sitemap.xml
